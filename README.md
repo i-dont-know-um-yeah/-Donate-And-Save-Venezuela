@@ -1,6 +1,4 @@
-# -Donate-And-Save-Venezuela
-A donation website to link to save the children and donate
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
     <head>
         <style>.frosted{ background:rgba(225, 225, 225, 0.3) ;
